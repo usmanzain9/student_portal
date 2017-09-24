@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/redd-angelo-12845-edit1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-card{
+    height: 400px;
+    width: 450px;
+    background: #fff;
+    margin-top: 100px;
+    padding-top: 50px;
+    box-shadow: 0px 0px 15px #000;
+    
+}
+.row{
+    width: 100%;
+    padding: 0% 10%;
+}
+.forname, .foremail{
+    line-height: 1.5 !important;
+}
