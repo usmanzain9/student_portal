@@ -22,3 +22,22 @@ body{
 .forname, .foremail{
     line-height: 1.5 !important;
 }
+@media (max-width: 512px) {
+    .login-card{
+        height: 300px;
+        width: 350px;
+        padding-top: 8%;
+        margin-top: 25%;
+    }
+    
+}
+@media (max-width: 1824px) {
+    login-card{
+        font-size: 2em;
+        height: 600px;
+        width: 650px;
+        margin-top: 25%;
+        padding-top: 15%;
+            
+    }
+}
